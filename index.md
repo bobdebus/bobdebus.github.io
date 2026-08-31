@@ -29,4 +29,4 @@ Coming soon...
 
 ### 🚴 Sports Analytics
 
-I'm particularly interested in applying data and AI to cycling and football.
+I'm particularly interested in applying data and AI to sports

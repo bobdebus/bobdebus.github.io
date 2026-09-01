@@ -1,0 +1,9 @@
+title: Bob Debus
+description: BI Analyst → Data Engineer → AI Engineer
+theme: minima
+
+header_pages:
+  - about.md
+  - blog.md
+  - projects.md
+  - sports-analytics.md

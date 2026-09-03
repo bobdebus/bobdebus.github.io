@@ -9,11 +9,10 @@ Welcome to my personal website.
 
 I work in **BI and Analytics**, and I’m currently exploring the next step in my journey towards **Data and AI Engineering**.
 
-I enjoy understanding how data moves from raw information to something useful — from data pipelines and modelling to analytics, AI and the products built around them.
+I enjoy understanding how data can be transformed from raw information into something useful — from data pipelines and modelling to analytics, AI and the products built around them.
 
 This website is where I document what I’m learning, the projects I’m building and the ideas I’m exploring along the way.
 
----
 
 ## What I'm exploring
 
@@ -23,13 +22,6 @@ Building reliable data pipelines, working with data platforms and understanding 
 **Python & AI**  
 Developing my Python skills and exploring machine learning, AI and how they can be applied to real-world problems.
 
-**Sports Analytics**  
-Exploring how data and AI can be used in sports, particularly around performance, analysis and decision-making.
-
-**Sustainability**  
-Continuing to explore how technology and data can contribute to more efficient and sustainable solutions.
-
----
 
 ## Projects
 
@@ -37,7 +29,6 @@ I’m building small projects to put what I learn into practice — from data pi
 
 **Coming soon...**
 
----
 
 ## Blog
 

@@ -1,4 +1,7 @@
-# About Me
+---
+layout: page
+title: About
+---
 
 My name is Bob Debus. I graduated in 2020 with a Master of Science in Mechanical Engineering from KU Leuven – Group T.
 After graduating, I decided to broaden my skills with a postgraduate program at KU Leuven. During this year, I worked on hands-on projects at CORE, a student company focused on making a socially responsible contribution to smarter and more efficient energy use.

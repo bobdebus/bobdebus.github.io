@@ -9,4 +9,3 @@ A collection of things I'm learning, building, and thinking about on my journey 
 ## Posts
 
 - [What I've Learned So Far](./blog/what-i-have-learned)
-- [My Next Blog Post](./blog/my-next-blog-post)

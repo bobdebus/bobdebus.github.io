@@ -1,0 +1,4 @@
+- DataCamp:
+  - [Python](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)
+  - [Data Engineer Associate](https://app.datacamp.com/certification/get-started/data-engineer-associate/overview)
+  - 

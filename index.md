@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Bob Debus
 ---
 
 # Data, Technology & Building Things

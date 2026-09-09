@@ -4,7 +4,9 @@ title: blog
 ---
 
 Welcome to my blog.
+A collection of things I'm learning, building, and thinking about on my journey from BI Analyst towards Data and AI Engineering.
 
-Here I document my journey from BI Analyst towards Data and AI Engineering.
+## Posts
 
-I will share what I learn, the projects I build, and the challenges I encounter along the way.
+- [What I've Learned So Far](./blog/what-i-have-learned)
+- [My Next Blog Post](./blog/my-next-blog-post)

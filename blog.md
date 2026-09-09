@@ -3,7 +3,6 @@ layout: page
 title: blog
 ---
 
-This page contains a selection of projects I have worked on...
 Welcome to my blog.
 
 Here I document my journey from BI Analyst towards Data and AI Engineering.

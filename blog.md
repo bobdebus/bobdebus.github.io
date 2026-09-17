@@ -8,4 +8,4 @@ A collection of things I'm learning, building, and thinking about on my journey 
 
 ## posts
 
-- [What I've Learned So Far](./blog/what-i-have-learned)
+- [What I've Learned So Far (WIP)](./blog/what-i-have-learned)

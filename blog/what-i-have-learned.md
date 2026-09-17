@@ -1,9 +1,9 @@
 ---
 layout: default
-title: What I've Learned So Far
+title: What I've Learned So Far (WIP)
 ---
 
-# What I've Learned So Far
+# What I've Learned So Far (WIP)
 
 Today I want to look back at what I've already learned...
 

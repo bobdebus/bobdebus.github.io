@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Data, Technology & Building Things
 ---
 
 Welcome to my personal website.

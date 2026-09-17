@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Data, Technology & Building Things
-
 Welcome to my personal website.
 
 I work in **BI and Analytics**, and I’m currently exploring the next step in my journey towards **Data and AI Engineering**.

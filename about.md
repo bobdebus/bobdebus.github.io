@@ -19,6 +19,6 @@ I’m currently focusing on growing from a BI and Analytics background towards *
 
 I’m using this website to document that journey — the technologies I’m learning, the projects I’m building and the things I discover along the way.
 
-Long term, I would love to combine my technical interests with my passion for **sports or sustainability**. These two topics are two fields that have always interested me, and I’d like to explore how data, technology and AI can create new opportunities in either of them.
+In an ideal world, I would love to combine my technical interests with my passion for sports or sustainability. These two topics have always interested me, and — as a long-term ambition — I'd like to explore how data, technology and AI can create new opportunities in either of them.
 
 This website is a place to learn, build and share that journey.
